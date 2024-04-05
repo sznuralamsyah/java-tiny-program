@@ -1,4 +1,4 @@
-public class rectangleshape {
+public class rectangle_shape {
     public static void main(String[] args) {
 
         System.out.println("Rectangle Kebawah");
